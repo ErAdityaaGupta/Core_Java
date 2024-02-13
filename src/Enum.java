@@ -1,6 +1,8 @@
+// in this program we are understanding the working of enum
+
 import java.sql.SQLOutput;
 
-// in this program we are understanding the working of enum
+
 enum Dept{
     CS("John","Block A"),IT("Smith","Block B"),CIVIL("Srinivas","Block C"),ECE("Dave","Block D");
 
