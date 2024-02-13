@@ -1,0 +1,40 @@
+Index: src/AtmMachine.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/AtmMachine.java b/src/AtmMachine.java
+new file mode 100644
+--- /dev/null	(date 1707829824920)
++++ b/src/AtmMachine.java	(date 1707829824920)
+@@ -0,0 +1,30 @@
++// achieving synchronization in an atm in a locality.
++
++
++class Atm {
++
++    public void checkBalance(String name){
++        System.out.println(name +" is checking their account balance");
++    }
++    public void withdraw(String name,int amt){
++        System.out.println(name + " is withdrawing Rs"+ amt );
++    }
++}
++
++class customer extends Thread{
++//    Atm b = new Atm();
++    Atm b;
++    String name;
++    int amount;
++
++    public void useAtm(){
++
++    }
++}
++
++public class AtmMachine {
++    public static void main(String[] args) {
++        Atm a = new Atm();
++
++    }
++}
