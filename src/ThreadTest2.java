@@ -1,4 +1,6 @@
 // Checking out few more methods of the thread class.
+
+
 class MyThread2 extends Thread{
     public void run(){
         int count = 0;
