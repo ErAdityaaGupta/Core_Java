@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change afterPath="$PROJECT_DIR$/src/StuTec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,11 @@
   "keyToString": {
     "Application.AtmMachine.executor": "Run",
     "Application.Enum.executor": "Run",
+    "Application.FileExample.executor": "Run",
     "Application.InterProcess.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.StackException.executor": "Run",
+    "Application.StuTec.executor": "Run",
     "Application.SyncDemo.executor": "Run",
     "Application.ThreadTest.executor": "Run",
     "Application.ThreadTest2.executor": "Run",
@@ -173,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707846180610</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="created">
+      <option name="closed" value="true" />
+      <created>1707889466848</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707889466848</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
