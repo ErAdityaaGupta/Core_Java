@@ -15,7 +15,7 @@ class MyData1{
         }
 
         value = v;
-        flag = false;
+        flag = false;    
         notify();
     }
     synchronized public int get(){
