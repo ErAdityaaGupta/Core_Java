@@ -46,6 +46,7 @@
     "Application.FileExample.executor": "Run",
     "Application.InterProcess.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PipedDemo.executor": "Run",
     "Application.StackException.executor": "Run",
     "Application.StuTec.executor": "Run",
     "Application.SyncDemo.executor": "Run",
@@ -64,6 +65,20 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="PipedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PipedDemo" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PipedDemo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -216,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707926659052</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="created">
+      <option name="closed" value="true" />
+      <created>1708008231407</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708008231407</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
