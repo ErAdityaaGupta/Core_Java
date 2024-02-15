@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change beforePath="$PROJECT_DIR$/src/ByteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ByteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AtmMachine.executor": "Run",
+    "Application.BufferedDemo.executor": "Run",
     "Application.ByteDemo.executor": "Run",
     "Application.Enum.executor": "Run",
     "Application.FileExample.executor": "Run",
@@ -207,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707926168242</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="created">
+      <option name="closed" value="true" />
+      <created>1707926659052</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707926659052</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
