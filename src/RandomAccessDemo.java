@@ -14,7 +14,7 @@ public class RandomAccessDemo {
         raf.skipBytes(3);
         System.out.println((char) raf.read());
         raf.seek(0);
-        System.out.println((char) raf.read());
+        System.out.println((char) raf.read());   
         System.out.println(raf.getFilePointer());
         raf.seek(raf.getFilePointer()+4);
         System.out.println((char) raf.read());
