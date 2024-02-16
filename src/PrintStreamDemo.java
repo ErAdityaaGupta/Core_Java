@@ -13,8 +13,12 @@ public class PrintStreamDemo{
     public static void main(String[] args) throws Exception{
         FileInputStream fis = new FileInputStream("C:/MyJava/Student1.txt");
         BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+        Student1 s = new Student1();
+        s.rollNo = Integer.parseInt(br.readLine());
+        s.name = br.readLine();
+        s.dept = br.readLine();
 
-
+        System.out.println(s.rollNo + " "+ s.name + " " +s.dept);
 
 
     }
