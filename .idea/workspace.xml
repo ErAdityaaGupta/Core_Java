@@ -52,6 +52,7 @@
     "Application.PrintStreamDemo.executor": "Run",
     "Application.RandomAccessDemo.executor": "Run",
     "Application.StackException.executor": "Run",
+    "Application.Streams.executor": "Run",
     "Application.StuTec.executor": "Run",
     "Application.SyncDemo.executor": "Run",
     "Application.ThreadTest.executor": "Run",
@@ -291,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708095042842</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="created">
+      <option name="closed" value="true" />
+      <created>1708097446456</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1708097446456</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
