@@ -1,14 +1,29 @@
 // In this program we understand the basic functioning of generics.
 
 
-class Data<T>{
-    private T obj;
+//class Data<T>{
+//    private T obj;
+//
+//    public void setData(T v){
+//        obj = v;
+//    }
+//    public T getData(){
+//        return obj;
+//    }
+//}
 
-    public void setData(T v){
-        obj = v;
+class MyArray<T>{
+    T A[] = (T[]) new Object[10];
+    int length = 0;
+
+    public void append(T v){
+        A[length++] = v;
     }
-    public T getData(){
-        return obj;
+
+    public void display(){
+        for(int i=0;i<length;i++){
+            System.out.print(A[i]+" ");
+        }
     }
 }
 
@@ -23,9 +38,21 @@ public class GenericDemo<T> {
 //        gd.data[2] = "Gupta";
 //    }
 
+//    public static void main(String[] args) {
+//        Data <Integer> d = new Data<>();
+//        d.setData(10);
+//        System.out.println(d.getData());
+//    }
+
     public static void main(String[] args) {
-        Data <Integer> d = new Data<>();
-        d.setData(10);
-        System.out.println(d.getData());
+        MyArray<Integer> ma = new MyArray<>();
+
+        ma.append(10);
+        ma.append(20);
+        ma.append(30);
+        ma.append(40);
+
+        ma.display();
+
     }
 }
