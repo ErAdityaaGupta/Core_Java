@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintStreamDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "Application.AtmMachine.executor": "Run",
     "Application.BufferedDemo.executor": "Run",
     "Application.ByteDemo.executor": "Run",
+    "Application.DataStreamDemo.executor": "Run",
     "Application.Enum.executor": "Run",
     "Application.FileExample.executor": "Run",
     "Application.InterProcess.executor": "Run",
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708022266862</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="created">
+      <option name="closed" value="true" />
+      <created>1708093651380</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1708093651380</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
