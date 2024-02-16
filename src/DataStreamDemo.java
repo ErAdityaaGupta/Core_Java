@@ -44,5 +44,8 @@ public class DataStreamDemo{
         s.avg = dis.readFloat();
 
         System.out.println(s.rollNo+ " " + s.name + " "+ s.dept + " "+ s.avg);
+
+        dis.close();
+        fis.close();
     }
 }
