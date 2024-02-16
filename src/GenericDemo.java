@@ -51,6 +51,9 @@ public class GenericDemo<T> {
         ma.append(20);
         ma.append(30);
         ma.append(40);
+        ma.append(50);
+        ma.append(66);
+        ma.append(69);
 
         ma.display();
 
