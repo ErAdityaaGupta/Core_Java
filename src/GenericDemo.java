@@ -45,13 +45,13 @@ public class GenericDemo<T> {
 //    }
 
     public static void main(String[] args) {
-        MyArray<Integer> ma = new MyArray<>();
+        MyArray ma = new MyArray<>();
 
         ma.append(10);
         ma.append(20);
         ma.append(30);
         ma.append(40);
-        ma.append(50);
+        ma.append("HI");
         ma.append(66);
         ma.append(69);
 

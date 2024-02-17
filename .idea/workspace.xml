@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
+      <change afterPath="$PROJECT_DIR$/src/ListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericDemo.java" afterDir="false" />
     </list>
@@ -23,6 +24,9 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ListDemo.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -48,9 +52,10 @@
     "Application.FileExample.executor": "Run",
     "Application.GenericDemo.executor": "Run",
     "Application.InterProcess.executor": "Run",
+    "Application.ListDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ObjectStreamDemo.executor": "Run",
-    "Application.PipedDemo.executor": "Run",
+    "Application.PipedDemo.executor": "Debug",
     "Application.PrintStreamDemo.executor": "Run",
     "Application.RandomAccessDemo.executor": "Run",
     "Application.StackException.executor": "Run",
@@ -59,6 +64,8 @@
     "Application.SyncDemo.executor": "Run",
     "Application.ThreadTest.executor": "Run",
     "Application.ThreadTest2.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
+    "Notification.DoNotAsk-WindowsDefender": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -318,7 +325,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708104475435</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="created">
+      <option name="closed" value="true" />
+      <created>1708105236008</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1708105236008</updated>
+    </task>
+    <task id="LOCAL-00029" summary="created">
+      <option name="closed" value="true" />
+      <created>1708105391261</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1708105391261</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
