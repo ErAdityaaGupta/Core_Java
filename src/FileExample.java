@@ -35,7 +35,7 @@ import java.io.IOException;
 public class FileExample{
     public static void main(String[] args) throws Exception {
         try(FileInputStream fis = new FileInputStream("C:/MyJava/Test.txt")){
-//            byte b[] = new byte[fis.available()];
+//            byte b[] = new byte[fis.available()];   
 //
 //            fis.read(b);
 //            String str = new String(b);
