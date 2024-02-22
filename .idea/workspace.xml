@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
+      <change afterPath="$PROJECT_DIR$/src/DequeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_13_2024_6_54_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_13_2024_6_54_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
     "Application.BufferedDemo.executor": "Run",
     "Application.ByteDemo.executor": "Run",
     "Application.DataStreamDemo.executor": "Run",
+    "Application.DequeDemo.executor": "Run",
     "Application.Enum.executor": "Run",
     "Application.FileExample.executor": "Run",
     "Application.GenericDemo.executor": "Run",
@@ -54,8 +58,9 @@
     "Application.ListDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ObjectStreamDemo.executor": "Run",
-    "Application.PipedDemo.executor": "Debug",
+    "Application.PipedDemo.executor": "Run",
     "Application.PrintStreamDemo.executor": "Run",
+    "Application.PriorityDemo.executor": "Run",
     "Application.RandomAccessDemo.executor": "Run",
     "Application.StackException.executor": "Run",
     "Application.Streams.executor": "Run",
@@ -348,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708186243269</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="created">
+      <option name="closed" value="true" />
+      <created>1708187037567</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1708187037567</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
