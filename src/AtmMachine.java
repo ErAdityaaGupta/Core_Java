@@ -12,7 +12,7 @@ class Atm {
         }
 
     }
-
+  
     synchronized public void withdraw(String name, int amt) {
         System.out.println(name + " is withdrawing Rs" + amt);
 
