@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change afterPath="$PROJECT_DIR$/src/DequeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriorityDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_13_2024_6_54_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_13_2024_6_54_PM__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseEcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingletonExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +61,8 @@
     "Application.PrintStreamDemo.executor": "Run",
     "Application.PriorityDemo.executor": "Run",
     "Application.RandomAccessDemo.executor": "Run",
+    "Application.ReverseEcho.executor": "Run",
+    "Application.SingletonExample.executor": "Run",
     "Application.StackException.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.StuTec.executor": "Run",
@@ -361,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708187037567</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="created">
+      <option name="closed" value="true" />
+      <created>1708613482591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1708613482591</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
