@@ -9,7 +9,7 @@ public class DequeDemo {
 
         dq.offerLast(10);
         dq.offerLast(20);
-        dq.offerLast(30);
+        dq.offerLast(30);   
         dq.offerLast(40);
 
         dq.forEach((x)-> System.out.print(x+" "));
