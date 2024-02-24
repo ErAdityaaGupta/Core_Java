@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change afterPath="$PROJECT_DIR$/src/FactoryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseEcho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +52,14 @@
     "Application.DataStreamDemo.executor": "Run",
     "Application.DequeDemo.executor": "Run",
     "Application.Enum.executor": "Run",
+    "Application.FactoryExample.executor": "Run",
     "Application.FileExample.executor": "Run",
     "Application.GenericDemo.executor": "Run",
     "Application.InterProcess.executor": "Run",
+    "Application.LinkedHashMapDemo.executor": "Run",
     "Application.ListDemo.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapDemo.executor": "Run",
     "Application.ObjectStreamDemo.executor": "Run",
     "Application.PipedDemo.executor": "Run",
     "Application.PrintStreamDemo.executor": "Run",
@@ -69,8 +73,13 @@
     "Application.SyncDemo.executor": "Run",
     "Application.ThreadTest.executor": "Run",
     "Application.ThreadTest2.executor": "Run",
+    "Application.TreeDemo.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
     "Notification.DoNotAsk-WindowsDefender": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -370,7 +379,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708613482591</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="created">
+      <option name="closed" value="true" />
+      <created>1708709262940</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1708709262940</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
