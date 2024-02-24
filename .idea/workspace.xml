@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TokenizerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AtmMachine.executor": "Run",
+    "Application.BitSetDemo.executor": "Run",
     "Application.BufferedDemo.executor": "Run",
     "Application.ByteDemo.executor": "Run",
     "Application.DataStreamDemo.executor": "Run",
@@ -73,6 +73,7 @@
     "Application.SyncDemo.executor": "Run",
     "Application.ThreadTest.executor": "Run",
     "Application.ThreadTest2.executor": "Run",
+    "Application.TokenizerDemo.executor": "Run",
     "Application.TreeDemo.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
@@ -387,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708709262940</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="created">
+      <option name="closed" value="true" />
+      <created>1708761268929</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1708761268929</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
