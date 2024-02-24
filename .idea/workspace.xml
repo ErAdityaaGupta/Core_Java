@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change afterPath="$PROJECT_DIR$/src/BitSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TokenizerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuDrivenProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparatorDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Application.BitSetDemo.executor": "Run",
     "Application.BufferedDemo.executor": "Run",
     "Application.ByteDemo.executor": "Run",
+    "Application.ComparatorDemo.executor": "Run",
     "Application.DataStreamDemo.executor": "Run",
     "Application.DequeDemo.executor": "Run",
     "Application.Enum.executor": "Run",
@@ -60,6 +60,7 @@
     "Application.ListDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MapDemo.executor": "Run",
+    "Application.MenuDrivenProgram.executor": "Run",
     "Application.ObjectStreamDemo.executor": "Run",
     "Application.PipedDemo.executor": "Run",
     "Application.PrintStreamDemo.executor": "Run",
@@ -396,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708761268929</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="created">
+      <option name="closed" value="true" />
+      <created>1708764175575</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1708764175575</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
