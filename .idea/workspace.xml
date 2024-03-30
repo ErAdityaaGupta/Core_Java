@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="280e2734-4948-4091-b65f-2335bf701e64" name="Changes" comment="created">
-      <change afterPath="$PROJECT_DIR$/src/MenuDrivenProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparatorDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,60 +40,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AtmMachine.executor": "Run",
-    "Application.BitSetDemo.executor": "Run",
-    "Application.BufferedDemo.executor": "Run",
-    "Application.ByteDemo.executor": "Run",
-    "Application.ComparatorDemo.executor": "Run",
-    "Application.DataStreamDemo.executor": "Run",
-    "Application.DequeDemo.executor": "Run",
-    "Application.Enum.executor": "Run",
-    "Application.FactoryExample.executor": "Run",
-    "Application.FileExample.executor": "Run",
-    "Application.GenericDemo.executor": "Run",
-    "Application.InterProcess.executor": "Run",
-    "Application.LinkedHashMapDemo.executor": "Run",
-    "Application.ListDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MapDemo.executor": "Run",
-    "Application.MenuDrivenProgram.executor": "Run",
-    "Application.ObjectStreamDemo.executor": "Run",
-    "Application.PipedDemo.executor": "Run",
-    "Application.PrintStreamDemo.executor": "Run",
-    "Application.PriorityDemo.executor": "Run",
-    "Application.RandomAccessDemo.executor": "Run",
-    "Application.ReverseEcho.executor": "Run",
-    "Application.SingletonExample.executor": "Run",
-    "Application.StackException.executor": "Run",
-    "Application.Streams.executor": "Run",
-    "Application.StuTec.executor": "Run",
-    "Application.SyncDemo.executor": "Run",
-    "Application.ThreadTest.executor": "Run",
-    "Application.ThreadTest2.executor": "Run",
-    "Application.TokenizerDemo.executor": "Run",
-    "Application.TreeDemo.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
-    "Notification.DoNotAsk-WindowsDefender": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/91830/IdeaProjects/CoreJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AtmMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ByteDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataStreamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DequeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterProcess.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuDrivenProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectStreamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PipedDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStreamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriorityDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomAccessDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseEcho.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StuTec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SyncDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TokenizerDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender configuration&quot;,
+    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/91830/IdeaProjects/CoreJava/src/Main.java&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.CalculatorTest">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <module name="CoreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PipedDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PipedDemo" />
       <module name="CoreJava" />
@@ -105,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.PipedDemo" />
       </list>
     </recent_temporary>
@@ -405,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708764175575</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="created">
+      <option name="closed" value="true" />
+      <created>1708771354277</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1708771354277</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
